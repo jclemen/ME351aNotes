@@ -4,7 +4,8 @@
 \date{Fall 2012}
 \title{ME 351A: Inviscid Fluid Mechanics Notes}
 \usepackage{textgreek}
-\usepackage{fullpage}
+\usepackage{ulem}
+%\usepackage{fullpage}
 \begin{document}
 \maketitle
 \tableofcontents
@@ -53,7 +54,45 @@ where $\eta$ represents the smallest important scale of the flow system. This wi
 \item Zero order tensor
 \item no directional information
 \item time, t; pressure, p; density, $\rho$; kinematic viscosity $\nu$
+\item[Vectors:]
+\item Order 1 tensor
+\item 1 item of directional information
+\item 1 subscript associated with it.
+\item Position $\vec{x}=($\b{x}$) =x_1\hat{e}_1 + x_2\hat{e}_2 + x_3\hat{e}_3 = x_i\hat{e}_i $; velocity $\vec{u}$, vorticity $\vec{\omega}$
+
+Note: Einstein summation convention: sum over repeated indicies. 
+
+Therefore: $x_i\hat{e}_i =\sum\limits_{i}x_i\hat{e}_i $
+
+\item[Unit Vectors: ] Note that in Cartesian coordinates, unit vectors are: $\hat{i}, \hat{j}, \hat{k}$ for x,y,z directions respectively. For velocity, components are oriented in the u,v,w direction.
+
+\item[2nd Order Tensors]
+\item 2 directional components
+\item 2 subscripts
+\item Velocity gradient tensor $\nabla\vec{u} = \left(\nabla\vec{u}\right)_{ij}$ the $\nabla$ operator creates a tensor of order 1 higher than the initial variable.
+\item[Note on Tensors: ] $\left(\nabla\vec{u}\right)_{ij}$ contains an i and a j component. i refers to the row and derivative operator. j refers to the column and velocity component. Expanded, the operator looks like this:
+
+\[\nabla\vec{u} = \left(
+\begin{array}{ccc}
+\frac{\partial u_1}{\partial x_1} & \frac{\partial u_2}{\partial x_1} & \frac{\partial u_3}{\partial x_1} \\
+\frac{\partial u_1}{\partial x_2} & \frac{\partial u_2}{\partial x_2} & \frac{\partial u_3}{\partial x_2} \\
+\frac{\partial u_1}{\partial x_3} & \frac{\partial u_2}{\partial x_3} & \frac{\partial u_3}{\partial x_3} \\
+\end{array}\right)\]
+
+\item[\textbf{!Fact: }] for any general 2nd order tensor \uuline{A} can decompose as:
+ \[\uuline{A} = \frac{1}{2}\left(\uuline{A}+\uuline{A}^T\right)+ \frac{1}{2}\left(\uuline{A}-\uuline{A}^T\right)\]
+ 
+ \item For $\nabla\vec{u}$: we write: $\nabla\vec{u}=\frac{1}{2}\left(\nabla\vec{u}+\left(\nabla\vec{u}\right)^T\right)+\frac{1}{2}\left(\nabla\vec{u}-\left(\nabla\vec{u}\right)^T\right)=\uuline{S}+\uuline{\Omega}$
+
+\[S_{ij} = \frac{1}{2}\left(\frac{\partial u_i}{\partial x_j}+\frac{\partial u_j}{\partial x_i}\right) \]
+\[\Omega_{ij} = \frac{1}{2}\left(\frac{\partial u_j}{\partial x_i}-\frac{\partial u_i}{\partial x_j}\right) \]
+\item Where S is the train rate tensor and $\Omega$ is the rotation rate tensor. 
+\item Note that KUNDU defines these with a different notation. He has a different sign and multiplier.
+
 \end{itemize}
+
+\chapter{Types of Fluid Motion - 9/27}
+\section{Understanding Velocity gradient tensor}
 
 
 \end{document}

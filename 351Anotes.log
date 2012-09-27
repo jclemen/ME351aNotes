@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.27)  27 SEP 2012 10:50
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.27)  27 SEP 2012 14:26
 entering extended mode
 **351Anotes.tex
 (C:\Users\PrakashCAD\Documents\Jaimz\Classes\ME351A\ME351aNotes\351Anotes.tex
@@ -67,49 +67,57 @@ File: lgrenc.def 2008/06/17 v2.3 Greek Encoding
 Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
 *}. on input line 69.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
-Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip43
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+\UL@box=\box26
+\UL@hyphenbox=\box27
+\UL@skip=\skip43
+\UL@hook=\toks15
+\UL@height=\dimen105
+\UL@pe=\count89
+\UL@pixel=\dimen106
+\ULC@box=\box28
+Package: ulem 2012/05/18
+\ULdepth=\dimen107
 )
 (C:\Users\PrakashCAD\Documents\Jaimz\Classes\ME351A\ME351aNotes\351Anotes.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 8.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 9.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 9.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\lgrcmr.fd"
 File: lgrcmr.fd 2008/06/17 v2.3 Greek Computer Modern
 )
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    ... okay on input line 9.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count89
-\scratchdimen=\dimen105
-\scratchbox=\box26
-\nofMPsegments=\count90
-\nofMParguments=\count91
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count92
-\MPscratchDim=\dimen106
-\MPnumerator=\count93
-\makeMPintoPDFobject=\count94
-\everyMPtoPDFconversion=\toks16
+\scratchcounter=\count90
+\scratchdimen=\dimen108
+\scratchbox=\box29
+\nofMPsegments=\count91
+\nofMParguments=\count92
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count93
+\MPscratchDim=\dimen109
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
+\everyMPtoPDFconversion=\toks17
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 9.
+(Font)              <14.4> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 9.
+(Font)              <7> on input line 10.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -127,12 +135,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 13.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+
+Overfull \hbox (2.31537pt too wide) in paragraph at lines 14--15
+[]\OT1/cmr/m/n/12 Commonsense def-i-ni-tion: flu-ids "fill their con-tainer", f
+lu-ids "takes shape
+ []
+
+
+Overfull \hbox (13.55646pt too wide) in paragraph at lines 20--21
+[]\OT1/cmr/m/n/12 We will use con-tin-uum as-sump-tion to de-scribe fluid flows
+. Namely, fluid/flow
+ []
 
 <MicroscopicFluidExampleME351A.jpg, id=11, 2002.48125pt x 675.52374pt>
 File: MicroscopicFluidExampleME351A.jpg Graphic file (type jpg)
@@ -140,29 +159,36 @@ File: MicroscopicFluidExampleME351A.jpg Graphic file (type jpg)
 <use MicroscopicFluidExampleME351A.jpg> [2
 
  <C:/Users/PrakashCAD/Documents/Jaimz/Classes/ME351A/ME351aNotes/MicroscopicFlu
-idExampleME351A.jpg>] [3]
+idExampleME351A.jpg>] [3] [4]
+[5]
+Chapter 2.
+[6
+
+]
 (C:\Users\PrakashCAD\Documents\Jaimz\Classes\ME351A\ME351aNotes\351Anotes.aux) 
 ) 
 Here is how much of TeX's memory you used:
- 1242 strings out of 494019
- 17670 string characters out of 3143867
- 67071 words of memory out of 3000000
- 4558 multiletter control sequences out of 15000+200000
- 9774 words of font info for 33 fonts, out of 3000000 for 9000
+ 1303 strings out of 494019
+ 18092 string characters out of 3143867
+ 72086 words of memory out of 3000000
+ 4618 multiletter control sequences out of 15000+200000
+ 9880 words of font info for 34 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 25i,6n,21p,209b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,7n,21p,245b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\PrakashCAD\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cbgreek\
 dpi600\grmn1200.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
-7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pf
-b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on 351Anotes.pdf (4 pages, 793686 bytes).
+/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on 351Anotes.pdf (7 pages, 825459 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
