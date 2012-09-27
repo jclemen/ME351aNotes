@@ -1,0 +1,3 @@
+\contentsline {chapter}{\numberline {1}What is a fluid? - 9/25/2012}{2}
+\contentsline {section}{\numberline {1.1}Mathematically precise definition of fluid}{2}
+\contentsline {section}{\numberline {1.2}Fluid Properties}{3}
